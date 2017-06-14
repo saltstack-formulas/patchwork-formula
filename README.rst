@@ -1,5 +1,5 @@
-.. image:: https://travis-ci.org/dlax/patchwork-formula.svg?branch=master
-    :target: https://travis-ci.org/dlax/patchwork-formula
+.. image:: https://travis-ci.org/saltstack-formulas/patchwork-formula.svg?branch=master
+    :target: https://travis-ci.org/saltstack-formulas/patchwork-formula
 
 =================
 patchwork-formula
